@@ -1,0 +1,9 @@
+a=80
+b=88
+c=82
+d=80
+e=90
+score=a+b+c+d+e
+average=(score)/5
+print(score,'점')
+print(average,'점')
